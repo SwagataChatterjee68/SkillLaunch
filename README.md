@@ -89,7 +89,8 @@ Through discussions with student developers and communities, I noticed bartering
 - Clean, student-friendly UI with Tailwind CSS.
 
 ## 🚀 Tech Stack
-- **Backend:** Node.js, Express.js, MongoDB
+- **Backend:** Node.js, Express.js
+- **Database**  MongoDB
 - **Frontend:** React.js, Tailwind CSS
 - **Tools:** Postman, GitHub
 
