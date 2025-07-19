@@ -11,6 +11,14 @@ SkillLaunch is a peer-to-peer hybrid skill marketplace designed for students and
 - Transition seamlessly into paid freelancing
 - Overcome the “no trust, no clients” barrier
 
+
+# 💡 What is the Actual Problem?
+-----------------------------------
+Students can’t get freelancing clients without trust, but can’t build trust without working on real projects.
+- This creates a vicious cycle:
+- No Clients ➔ No Projects ➔ No Portfolio ➔ No Trust ➔ No Clients
+
+
 # 🚩 How I Found the Problem
 -----------------------------------
 
@@ -26,11 +34,6 @@ Through discussions with student developers and communities, I noticed bartering
 - ✅ Collect testimonials
 - ✅ Showcase as verified portfolio pieces
 
-# 💡 What is the Actual Problem?
------------------------------------
-Students can’t get freelancing clients without trust, but can’t build trust without working on real projects.
-- This creates a vicious cycle:
-- No Clients ➔ No Projects ➔ No Portfolio ➔ No Trust ➔ No Clients
 
 # 🚀 What Problem It Solves:
 -----------------------------------
