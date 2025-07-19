@@ -19,7 +19,7 @@ Platforms like Upwork/Fiverr require social proof and a portfolio, which student
 
 Many want to learn real-world collaboration but don’t have paid opportunities.
 
-Through discussions with student developers and communities, I noticed bartering skills (design for code, etc.) was an informal practice but had no structured, safe system to:
+Through discussions with student developers and communities, I noticed bartering skills (design for code, etc.) was an informal practice but lacked a structured, safe system to:
 
 ✅ Complete projects professionally
 ✅ Collect testimonials
@@ -31,7 +31,6 @@ Students can’t get freelancing clients without trust, but can’t build trust 
 This creates a vicious cycle:
 
 No Clients ➔ No Projects ➔ No Portfolio ➔ No Trust ➔ No Clients
-
 🚀 How SkillLaunch Solves the Problem
 SkillLaunch breaks this cycle by:
 
@@ -46,19 +45,19 @@ SkillLaunch breaks this cycle by:
 ✅ Structured Barter ➔ Paid Freelancing Pipeline: First of its kind to formalize barter projects for freelancing launch.
 ✅ Safe and Peer-Driven: Students help each other in a safe environment without payment anxiety.
 ✅ Trust-Building Mechanism: Reviews and portfolio validation on completed barter projects.
-✅ Practical Learning: Real-world collaboration, time management, client handling simulation.
-✅ Accessible for everyone: No upfront costs or heavy competition walls as in large marketplaces.
+✅ Practical Learning: Real-world collaboration, time management, and client handling simulation.
+✅ Accessible for Everyone: No upfront costs or heavy competition walls as in large marketplaces.
 
 🛠️ Tech Stack
-Frontend: Recat , Tailwind CSS
+Frontend: React, Tailwind CSS
 
-Backend: Node.js , Express.js
+Backend: Node.js, Express.js
 
-Database: MongoDB 
+Database: MongoDB
 
-Authentication: JWT/localStorage
+Authentication: JWT, localStorage
 
-Deployment: Vercel/Netlify for frontend, Render/Heroku for backend
+Deployment: Vercel/Netlify (frontend), Render/Heroku (backend)
 
 💼 Features
 ✅ User Authentication (Signup/Login)
@@ -84,11 +83,12 @@ Ensuring scalable user verification for trustworthiness
 ✅ Built project progress tracking to reduce drop-offs
 ✅ Created a conflict resolution workflow in the system
 
-
 🪐 Why SkillLaunch Matters
 SkillLaunch is not just a platform; it is a launchpad for students to gain confidence, real-world project exposure, and trust, without the initial fear of competing for clients they can’t get without proof.
+
 It empowers students globally to convert learning into tangible, verifiable experience, transforming them into independent earners in the digital economy.
 
 📬 Contact
 Creator: Swagata Chatterjee
 Email: ranichatterjee21112@gmail.com
+
